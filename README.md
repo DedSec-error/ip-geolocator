@@ -19,7 +19,7 @@
 <p> Seguendo questi passaggi, dovresti essere in grado di eseguire l'applicazione IP Geolocator sul tuo computer e ottenere informazioni dettagliate sugli indirizzi IP. </p>
 
 ## Screenshot:
-![Immagine di IP Geolocator](IP Geolocator/Geolocate/4.png)
+![Immagine di IP Geolocator](.IP Geolocator/Geolocate/4.png)
 
 ## Autore:
 Sviluppatore Simeone Daniele e Scala Fabio
