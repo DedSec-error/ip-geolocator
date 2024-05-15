@@ -1,0 +1,17 @@
+C:\Users\Daniele\Desktop\Games\Scuola\Esame\progetti\geolocate\Geolocate\bin\Debug\net8.0\Geolocate.exe
+C:\Users\Daniele\Desktop\Games\Scuola\Esame\progetti\geolocate\Geolocate\bin\Debug\net8.0\Geolocate.deps.json
+C:\Users\Daniele\Desktop\Games\Scuola\Esame\progetti\geolocate\Geolocate\bin\Debug\net8.0\Geolocate.runtimeconfig.json
+C:\Users\Daniele\Desktop\Games\Scuola\Esame\progetti\geolocate\Geolocate\bin\Debug\net8.0\Geolocate.dll
+C:\Users\Daniele\Desktop\Games\Scuola\Esame\progetti\geolocate\Geolocate\bin\Debug\net8.0\Geolocate.pdb
+C:\Users\Daniele\Desktop\Games\Scuola\Esame\progetti\geolocate\Geolocate\obj\Debug\net8.0\Geolocate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniele\Desktop\Games\Scuola\Esame\progetti\geolocate\Geolocate\obj\Debug\net8.0\Geolocate.AssemblyInfoInputs.cache
+C:\Users\Daniele\Desktop\Games\Scuola\Esame\progetti\geolocate\Geolocate\obj\Debug\net8.0\Geolocate.AssemblyInfo.cs
+C:\Users\Daniele\Desktop\Games\Scuola\Esame\progetti\geolocate\Geolocate\obj\Debug\net8.0\Geolocate.csproj.CoreCompileInputs.cache
+C:\Users\Daniele\Desktop\Games\Scuola\Esame\progetti\geolocate\Geolocate\obj\Debug\net8.0\Geolocate.dll
+C:\Users\Daniele\Desktop\Games\Scuola\Esame\progetti\geolocate\Geolocate\obj\Debug\net8.0\refint\Geolocate.dll
+C:\Users\Daniele\Desktop\Games\Scuola\Esame\progetti\geolocate\Geolocate\obj\Debug\net8.0\Geolocate.pdb
+C:\Users\Daniele\Desktop\Games\Scuola\Esame\progetti\geolocate\Geolocate\obj\Debug\net8.0\Geolocate.genruntimeconfig.cache
+C:\Users\Daniele\Desktop\Games\Scuola\Esame\progetti\geolocate\Geolocate\obj\Debug\net8.0\ref\Geolocate.dll
+C:\Users\Daniele\Desktop\Games\Scuola\Esame\progetti\geolocate\Geolocate\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Daniele\Desktop\Games\Scuola\Esame\progetti\geolocate\Geolocate\obj\Debug\net8.0\Geolocate.csproj.AssemblyReference.cache
+C:\Users\Daniele\Desktop\Games\Scuola\Esame\progetti\geolocate\Geolocate\obj\Debug\net8.0\Geolocate.csproj.CopyComplete
